@@ -21,17 +21,17 @@ pip install markdown
 pip install weasyprint
 ```
 
-Edita los siguientes archivos de acuerdo a tu gusto y preferencia `ejemplo_hoja.md ejemplo_estilo.css` y guardalos como `muestra.md estilo.css` en la misma carpeta, luego, puedes usar el siguiente comando Python para tener un resulta en HTML y darle una revisada previa en tu navegador preferido.
+Edita los siguientes archivos de acuerdo a tu gusto y preferencia `ejemplo_hoja.md ejemplo_estilo.css` y guardalos como `muestra.md estilo.css` en la misma carpeta, luego, puedes usar el siguiente comando Python para tener un resultado previo en HTML y verlo en un navegador.
 
 
 ```bash
 python previsualizacion.py
 ```
  
-Al ejecutar el comando anterior se tiene un preliminar del documento el cual se puede ver desde el navegador. Para convertir ese preliminar en una rchivo PDF ejecuta el siguiente comando
+Al ejecutar el comando anterior se tiene un preliminar del documento el cual se puede ver desde el navegador. Para convertir en markgdon  en un archivo PDF ejecuta el siguiente comando
 
 ```bash
 python final.py
 ```
 
-El cual generara un archivo pdf llanmado final.pdf
+Con el cual generara un archivo pdf llanmado final.pdf
