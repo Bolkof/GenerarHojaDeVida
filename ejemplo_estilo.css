@@ -1,0 +1,67 @@
+/* Estilo del cuerpo de la página */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+/* Contenedor principal */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+/* Títulos */
+h1, h2 {
+  color: #333;
+}
+
+/* Enlaces */
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+/* Lista de elementos */
+ul {
+  list-style: square;
+}
+
+/* Sección de habilidades o experiencia */
+.skills-section {
+  margin-top: 20px;
+}
+
+/* Pie de página */
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+}
+
+/* Estilo para el enlace de correo electrónico */
+.email-link {
+  color: #007BFF;
+}
+
+/* Estilo para la sección de referencias */
+.references-section {
+  margin-top: 20px;
+}
+
+/* Estilo para la sección de referencias personales */
+.personal-references {
+  margin-top: 10px;
+}
+
+/* Estilo para la sección de referencias familiares */
+.family-references {
+  margin-top: 10px;
+}
