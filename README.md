@@ -1,8 +1,8 @@
 # GenerarHojaDeVida
-generador de hojas de vida desde markdown a pdf
+Es un generador de hojas de vida desde markdown a pdf
 
 
-Puedes convertir archivos Markdown simples a un PDF con disenno, utilizsando Python.
+Puedes convertir archivos Markdown simples a un PDF con diseño, utilizsando Python.
 Este repositorio utiliza las siguientes biblioteca de tercelos llamadas `markdown` y `weasyprint` Asegúrate de tener estas biblioteca instaladas junto con el repositorio:
 
 ```bash
@@ -25,13 +25,13 @@ Edita los siguientes archivos de acuerdo a tu gusto y preferencia `ejemplo_hoja.
 
 
 ```bash
-python paso1.py
+python previsualizacion.py
 ```
  
 Al ejecutar el comando anterior se tiene un preliminar del documento el cual se puede ver desde el navegador. Para convertir ese preliminar en una rchivo PDF ejecuta el siguiente comando
 
 ```bash
-python paso2.py
+python final.py
 ```
 
-El cual generara un archivo llanmado final.pdf
+El cual generara un archivo pdf llanmado final.pdf
