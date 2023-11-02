@@ -7,7 +7,7 @@ Este repositorio utiliza las siguientes biblioteca de tercelos llamadas `markdow
 
 ```bash
 git clone 
-https://github.com/Bolkof/GenerarHojaDeVida
+https://github.com/Bolkof/GenerarHojaDeVida.git
 ```
 
 ```bash
