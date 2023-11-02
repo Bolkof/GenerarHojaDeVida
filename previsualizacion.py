@@ -1,8 +1,8 @@
 import markdown
 
 # Nombre del archivo de entrada (Markdown) y de salida (HTML)
-archivo_entrada = 'mi_archivo.md'
-archivo_salida = 'mi_archivo.html'
+archivo_entrada = 'muestra.md'
+archivo_salida = 'muestra.html'
 
 # Abre el archivo de entrada y lee el contenido
 with open(archivo_entrada, 'r', encoding='utf-8') as f:
