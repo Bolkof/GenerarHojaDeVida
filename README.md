@@ -8,6 +8,7 @@ Este repositorio utiliza las siguientes biblioteca de tercelos llamadas `markdow
 ```bash
 git clone https://github.com/Bolkof/GenerarHojaDeVida.git
 ```
+En medio de estos dos comandos estan el entorno virtual de su preferencia
 
 ```bash
 cd GenerarHojaDeVida
