@@ -6,8 +6,7 @@ Puedes convertir archivos Markdown simples a un PDF con disenno, utilizsando Pyt
 Este repositorio utiliza las siguientes biblioteca de tercelos llamadas `markdown` y `weasyprint` Asegúrate de tener estas biblioteca instaladas junto con el repositorio:
 
 ```bash
-git clone 
-https://github.com/Bolkof/GenerarHojaDeVida.git
+git clone https://github.com/Bolkof/GenerarHojaDeVida.git
 ```
 
 ```bash
