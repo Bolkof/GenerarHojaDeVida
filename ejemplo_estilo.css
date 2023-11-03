@@ -2,7 +2,7 @@
 /* Estilo del cuerpo de la página */
 body {
   font-family: Arial, sans-serif;
-  margin: 1.5cm; /* Margen de 1.5 centímetros en todos los lados */
+  margin: 0; /* Margen de 1.5 centímetros en todos los lados */
   padding: 0;
   background-color: #f5f5f5;
 }
