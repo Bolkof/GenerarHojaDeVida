@@ -1,7 +1,7 @@
 # Curriculum Vitae
 
 <p align="center">
-  <img src"foto.png" alt="Ejemplo de imagen">
+  <img src"imagen.png" alt="Foto de perfil como imagen.png">
 </p>
 
 ## Información Personal
