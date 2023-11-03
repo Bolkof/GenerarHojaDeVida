@@ -1,7 +1,5 @@
+#### Curriculum Vitae
 
-<p align="center">
-  <h1>Curriculum Vitae</h1>
-</p>
 <p align="center">
   <img src"imagen.png" alt="Foto de perfil como imagen.png">
 </p>
