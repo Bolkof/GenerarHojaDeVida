@@ -1,8 +1,8 @@
-### Curriculum Vitae
+<center>
+# Curriculum Vitae
 
-<p align="center">
-  <img src"imagen.png" alt="Foto de perfil como imagen.png">
-</p>
+![Imagen como foto de perfil](ruta/de/la/imagen.jpg)
+</center>
 
 ## Información Personal
 - **Nombre:** Tu Nombre
