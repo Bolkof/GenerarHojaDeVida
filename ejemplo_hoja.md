@@ -1,4 +1,4 @@
-#### Curriculum Vitae
+### Curriculum Vitae
 
 <p align="center">
   <img src"imagen.png" alt="Foto de perfil como imagen.png">
