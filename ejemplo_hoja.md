@@ -1,5 +1,9 @@
 # Curriculum Vitae
 
+<p align="center">
+  <img src"foto.png" alt="Ejemplo de imagen">
+</p>
+
 ## Información Personal
 - **Nombre:** Tu Nombre
 - **Dirección:** Tu Dirección
