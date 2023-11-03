@@ -6,8 +6,10 @@
 
 ## Información Personal
 - **Nombre:** Tu Nombre
+- **Cedula de ciudadania:** 123456
 - **Dirección:** Tu Dirección
-- **Teléfono:** Tu Número de Teléfono
+- **Teléfono:** [<Tu Número de Teléfono>](tel:+1234567890)
+- **WhatsApp:** [Tu Numero de WhatsApp](https://wa.me/1234567890)
 - **Correo Electrónico:** Tu Correo Electrónico
 
 ## Perfil Profesional
